@@ -1,6 +1,7 @@
 # Cellular-Automata
-Simulation of elements like water, sand and acid among other things using cellular automata
-the simulation is not optimized at all , this is just an exploration of cellular automata
+Simulation of elements like water, sand and acid among other things using cellular automata.
+
+The simulation is not optimized at all , but is rather an exploration of how cellular automata can be used to achieve complex behaviour.
 
 ![image](https://github.com/user-attachments/assets/f003013b-01b9-41db-9b2e-9b1eac5bd16e)
 
